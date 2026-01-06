@@ -4,7 +4,7 @@ use_pydantic=True
 USERNAME = "probala24@gmail.com"
 PASSWORD = "Iamthebest#420"
 
-idc = irDataClient(access_token=[1405487]
+idc = irDataClient(access_token=[]
 
 driver_Name = "Max Probala"
 
